@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProject/MyMovieApp/app/src/main/res/drawable/bg_rounded.xml" value="0.1415" />
+        <entry key="..\:/AndroidStudioProject/MyMovieApp/app/src/main/res/drawable/bg_title.xml" value="0.1355" />
+        <entry key="..\:/AndroidStudioProject/MyMovieApp/app/src/main/res/drawable/ic_arrow_back_24dp.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProject/MyMovieApp/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProject/MyMovieApp/app/src/main/res/drawable/ic_outline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProject/MyMovieApp/app/src/main/res/layout/activity_detail.xml" value="0.1527777777777778" />
+        <entry key="..\:/AndroidStudioProject/MyMovieApp/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/AndroidStudioProject/MyMovieApp/app/src/main/res/layout/item_genre.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProject/MyMovieApp/app/src/main/res/layout/item_genre_list_selected.xml" value="0.240625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
