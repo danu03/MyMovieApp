@@ -4,7 +4,6 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.danusuhendra.mymovieapp.model.Genre
 import com.danusuhendra.mymovieapp.model.GenreResponse
 import com.danusuhendra.mymovieapp.model.ListMovieByGenreResponse
 import com.danusuhendra.mymovieapp.repository.MainRepository

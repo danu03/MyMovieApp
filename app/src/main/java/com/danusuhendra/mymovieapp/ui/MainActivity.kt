@@ -1,5 +1,6 @@
 package com.danusuhendra.mymovieapp.ui
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -44,7 +45,9 @@ class MainActivity : AppCompatActivity() {
 
         adapterListMovie.setClickCallback(object : ListMovieByGenreAdapter.OnItemClickCallback {
             override fun onItemClicked(data: Result) {
-
+                val intent = Intent(this@MainActivity, DetailActivity::class.java)
+                intent.putExtra("movie_id", data.id)
+                startActivity(intent)
             }
 
         })

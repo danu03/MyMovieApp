@@ -5,7 +5,6 @@ import com.danusuhendra.mymovieapp.model.ListMovieByGenreResponse
 import com.danusuhendra.mymovieapp.network.ApiInterface
 import com.danusuhendra.mymovieapp.utils.API_KEY
 import com.danusuhendra.mymovieapp.utils.DataState
-import com.danusuhendra.mymovieapp.utils.SORT_BY
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 
